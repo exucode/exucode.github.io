@@ -1,10 +1,10 @@
 
 html{
   /*Set some global colors here for quick re-coloring of stuff!*/
-  --bg-color: DarkGreen;
-  --darker-color: purple;
+  --bg-color: Gray;
+  --darker-color: Black;
   --lighter-color: DarkTurquoise;
-  --accent-color: Lime;
+  --accent-color: LightGray;
 
   --sidebar-width:140px;
   background-color: var(--bg-color);
@@ -16,7 +16,7 @@ html{
  
 body {
   color: black; /*text color*/
-  font-family: 'Comic Sans MS', cursive, sans-serif;
+  font-family: 'Arial', sans-serif;
   text-align: left;
   margin-left: auto;
   margin-right: auto;
