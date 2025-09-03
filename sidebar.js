@@ -9,7 +9,7 @@ for (i = 0; i<section1.length; i++){
 }
 
 
-var section2 = ['link4','link5']//write one-word link names in this list
+var section2 = ['link2','link5']//write one-word link names in this list
 html += '<h3>Section 2:</h3>';
 for (i = 0; i<section2.length; i++){
 	html += '<p> <a href="' + section2[i] + '.html">' + section2[i] + '</a></p>'
